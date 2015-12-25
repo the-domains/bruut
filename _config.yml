@@ -1,3 +1,7 @@
+name: Bruut
+favicon: null
+layout_spectrum: 0.4910394
+typography_spectrum: 0.663852
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.663852
+title: Bruut Amsterdam
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3239968
-  brandStrength: 0.9336985
-  rhythmicContrast: 0.3824986
   brandColors:
     - '#011421'
     - '#E1E8E8'
     - '#5C6676'
     - '#02E0B3'
     - '#C68977'
+  brandStrength: 0.9336985
   lightness: 0.3734619
-layout_spectrum: 0.4910394
-name: Bruut
+  saturation: 0.3239968
+  rhythmicContrast: 0.3824986
+purpose: []
