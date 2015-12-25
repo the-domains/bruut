@@ -1,0 +1,14 @@
+layout_spectrum: 0.68602
+typography_spectrum: 0.663852
+color:
+  saturation: 0.3239968
+  lightness: 0.3734619
+  brandStrength: 0.9336985
+  rhythmicContrast: 0.3824986
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Bruut
