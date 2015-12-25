@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.663852
 color:
   saturation: 0.3239968
   brandStrength: 0.9336985
-  lightness: 0.3734619
+  rhythmicContrast: 0.3824986
   brandColors:
     - '#011421'
     - '#E1E8E8'
     - '#5C6676'
     - '#02E0B3'
     - '#C68977'
-  rhythmicContrast: 0.3824986
-layout_spectrum: 0.68602
+  lightness: 0.3734619
+layout_spectrum: 0.4910394
 name: Bruut
